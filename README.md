@@ -1,27 +1,26 @@
-# ReduxApp
+# TodoMVC App Template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+> Template used for creating [TodoMVC](http://todomvc.com) apps
 
-## Development server
+![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Getting started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Read the [Application Specification](https://github.com/tastejs/todomvc/blob/master/app-spec.md) before touching the template.
 
-## Build
+- Delete this file and rename `app-readme.md` to `readme.md` and fill it out.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Clone this repo and install the dependencies with [npm](https://npmjs.com) by running: `npm install`.
 
-## Running unit tests
+## Importante:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+El CSS original se encuentra aquí
 
-## Running end-to-end tests
+```
+npm install todomvc-app-css
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## License
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://sindresorhus.com" property="cc:attributionName" rel="cc:attributionURL">TasteJS</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>.
